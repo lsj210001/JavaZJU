@@ -1,12 +1,13 @@
 package cells.src.field;
 
+import cells.src.cell.Cell;
+
 import java.awt.Dimension;
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-import cell.Cell;
 
 public class View extends JPanel {
 	private static final long serialVersionUID = -5258995676212660595L;

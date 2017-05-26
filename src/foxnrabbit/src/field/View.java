@@ -1,12 +1,12 @@
-package field;
+package foxnrabbit.src.field;
+
+import foxnrabbit.src.cell.Cell;
 
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
 
 import javax.swing.JPanel;
-
-import cell.Cell;
 
 public class View extends JPanel {
 	private static final long serialVersionUID = -2417015700213488315L;

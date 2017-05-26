@@ -1,4 +1,4 @@
-package field;
+package foxnrabbit.src.field;
 
 public class Location {
 	private int row;

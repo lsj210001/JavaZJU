@@ -1,16 +1,16 @@
-package foxnrabbit;
+package foxnrabbit.src.foxnrabbit;;
+
+import foxnrabbit.src.animal.Animal;
+import foxnrabbit.src.animal.Fox;
+import foxnrabbit.src.animal.Rabbit;
+import foxnrabbit.src.cell.Cell;
+import foxnrabbit.src.field.Field;
+import foxnrabbit.src.field.Location;
+import foxnrabbit.src.field.View;
 
 import java.util.ArrayList;
 
 import javax.swing.JFrame;
-
-import animal.Animal;
-import animal.Fox;
-import animal.Rabbit;
-import cell.Cell;
-import field.Field;
-import field.Location;
-import field.View;
 
 public class FoxAndRabbit {
 	private Field theField;

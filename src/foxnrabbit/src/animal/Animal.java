@@ -1,8 +1,8 @@
-package animal;
+package foxnrabbit.src.animal;
+
+import foxnrabbit.src.field.Location;
 
 import java.util.ArrayList;
-
-import field.Location;
 
 public abstract class Animal {
 	private int ageLimit;

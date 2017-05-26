@@ -1,10 +1,10 @@
-package animal;
+package foxnrabbit.src.animal;
+
+import foxnrabbit.src.cell.Cell;
 
 import java.awt.Color;
 import java.awt.Graphics;
 import java.util.ArrayList;
-
-import cell.Cell;
 
 public class Fox extends Animal implements Cell {
 	public Fox() {

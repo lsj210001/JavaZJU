@@ -1,4 +1,4 @@
-package cell;
+package foxnrabbit.src.cell;
 
 import java.awt.Graphics;
  

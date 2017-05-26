@@ -1,8 +1,8 @@
 package cells.src.field;
 
-import java.util.ArrayList;
+import cells.src.cell.Cell;
 
-import cell.Cell;
+import java.util.ArrayList;
 
 public class Field {
 	private int width;

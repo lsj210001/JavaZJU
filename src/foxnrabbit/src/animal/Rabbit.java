@@ -1,9 +1,9 @@
-package animal;
+package foxnrabbit.src.animal;
+
+import foxnrabbit.src.cell.Cell;
 
 import java.awt.Color;
 import java.awt.Graphics;
-
-import cell.Cell;
 
 public class Rabbit extends Animal implements Cell {
 	public Rabbit() {

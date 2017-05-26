@@ -1,10 +1,11 @@
 package cells.src.cellmachine;
 
+import cells.src.cell.Cell;
+import cells.src.field.Field;
+import cells.src.field.View;
+
 import javax.swing.JFrame;
 
-import cell.Cell;
-import field.Field;
-import field.View;
 
 public class CellMachine {
 

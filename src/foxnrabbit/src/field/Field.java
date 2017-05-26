@@ -1,8 +1,8 @@
-package field;
+package foxnrabbit.src.field;
 
 import java.util.ArrayList;
 
-import cell.Cell;
+import foxnrabbit.src.cell.Cell;
 
 public class Field {
 	private static final Location[] adjacent = {
