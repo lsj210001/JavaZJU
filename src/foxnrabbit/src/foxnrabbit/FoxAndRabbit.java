@@ -8,9 +8,10 @@ import foxnrabbit.src.field.Field;
 import foxnrabbit.src.field.Location;
 import foxnrabbit.src.field.View;
 
+import java.awt.event.ActionEvent;
 import java.util.ArrayList;
 
-import javax.swing.JFrame;
+import javax.swing.*;
 
 public class FoxAndRabbit {
 	private Field theField;

@@ -49,7 +49,7 @@ class City {
     void addCityDistance(String cityName, int distance) {
         CityDistance.put(cityName, distance);
     }
-
+    
     int getCityDistance(String cityName) {
         return CityDistance.get(cityName);
     }
